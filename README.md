@@ -1,2 +1,2 @@
-# personal-Health2
-python and streamlit
+run
+uv run streamlit run main.py
